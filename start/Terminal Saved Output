@@ -1,0 +1,427 @@
+Last login: Tue Oct 13 09:39:34 on ttys000
+(base) Pelles-MacBook-Pro:~ pellemumford_2018$ ls
+=2.6.0					TestRun.ipynb
+=2.6.05					Untitled.ipynb
+Applications				Untitled1.ipynb
+Desktop					Untitled2.ipynb
+DevConnector_Anant			bybit_api_python
+Documents				cart_academind
+Downloads				devconnector_2.0_SS_25Nov
+Farmgate				eattheblocks
+Farmgate-master				eattheblocks_ss
+Farmgate-master_checkpoint1		mern_shopping_list
+Library					node_passport_login
+Movies					nodejs-shopping-cart-tutorial
+Music					nodetradebot
+OrFeed					package-lock.json
+Pictures				profitable-flashloans
+Postman					profitable-flashloans_mainnet
+Public					profitable-flashloans_updated
+Python-Time-Series-master		react_express_starter
+ReactJS-Fly-To-Cart-Effect-master	trialapp2
+(base) Pelles-MacBook-Pro:~ pellemumford_2018$ mk dir Smart_Contract
+-bash: mk: command not found
+(base) Pelles-MacBook-Pro:~ pellemumford_2018$ ls
+=2.6.0					TestRun.ipynb
+=2.6.05					Untitled.ipynb
+Applications				Untitled1.ipynb
+Desktop					Untitled2.ipynb
+DevConnector_Anant			bybit_api_python
+Documents				cart_academind
+Downloads				devconnector_2.0_SS_25Nov
+Farmgate				eattheblocks
+Farmgate-master				eattheblocks_ss
+Farmgate-master_checkpoint1		mern_shopping_list
+Library					node_passport_login
+Movies					nodejs-shopping-cart-tutorial
+Music					nodetradebot
+OrFeed					package-lock.json
+Pictures				profitable-flashloans
+Postman					profitable-flashloans_mainnet
+Public					profitable-flashloans_updated
+Python-Time-Series-master		react_express_starter
+ReactJS-Fly-To-Cart-Effect-master	trialapp2
+Smart_Contract
+(base) Pelles-MacBook-Pro:~ pellemumford_2018$ pwd
+/Users/pellemumford_2018
+(base) Pelles-MacBook-Pro:~ pellemumford_2018$ ls
+=2.6.0					TestRun.ipynb
+=2.6.05					Untitled.ipynb
+Applications				Untitled1.ipynb
+Desktop					Untitled2.ipynb
+DevConnector_Anant			bybit_api_python
+Documents				cart_academind
+Downloads				devconnector_2.0_SS_25Nov
+Farmgate				eattheblocks
+Farmgate-master				eattheblocks_ss
+Farmgate-master_checkpoint1		mern_shopping_list
+Library					node_passport_login
+Movies					nodejs-shopping-cart-tutorial
+Music					nodetradebot
+OrFeed					package-lock.json
+Pictures				profitable-flashloans
+Postman					profitable-flashloans_mainnet
+Public					profitable-flashloans_updated
+Python-Time-Series-master		react_express_starter
+ReactJS-Fly-To-Cart-Effect-master	trialapp2
+Smart_Contract
+(base) Pelles-MacBook-Pro:~ pellemumford_2018$ cd Smart_Contract
+(base) Pelles-MacBook-Pro:Smart_Contract pellemumford_2018$ https://github.com/openberry-ac/crowdfunding.git
+-bash: https://github.com/openberry-ac/crowdfunding.git: No such file or directory
+(base) Pelles-MacBook-Pro:Smart_Contract pellemumford_2018$ cd ..
+(base) Pelles-MacBook-Pro:~ pellemumford_2018$ ls
+=2.6.0					TestRun.ipynb
+=2.6.05					Untitled.ipynb
+Applications				Untitled1.ipynb
+Desktop					Untitled2.ipynb
+DevConnector_Anant			bybit_api_python
+Documents				cart_academind
+Downloads				devconnector_2.0_SS_25Nov
+Farmgate				eattheblocks
+Farmgate-master				eattheblocks_ss
+Farmgate-master_checkpoint1		mern_shopping_list
+Library					node_passport_login
+Movies					nodejs-shopping-cart-tutorial
+Music					nodetradebot
+OrFeed					package-lock.json
+Pictures				profitable-flashloans
+Postman					profitable-flashloans_mainnet
+Public					profitable-flashloans_updated
+Python-Time-Series-master		react_express_starter
+ReactJS-Fly-To-Cart-Effect-master	trialapp2
+Smart_Contract
+(base) Pelles-MacBook-Pro:~ pellemumford_2018$ https://github.com/openberry-ac/crowdfunding.git
+-bash: https://github.com/openberry-ac/crowdfunding.git: No such file or directory
+(base) Pelles-MacBook-Pro:~ pellemumford_2018$ Git clone https://github.com/openberry-ac/crowdfunding.git
+Cloning into 'crowdfunding'...
+remote: Enumerating objects: 30, done.
+remote: Total 30 (delta 0), reused 0 (delta 0), pack-reused 30
+Unpacking objects: 100% (30/30), 111.36 KiB | 311.00 KiB/s, done.
+(base) Pelles-MacBook-Pro:~ pellemumford_2018$ cd crowdfunding
+(base) Pelles-MacBook-Pro:crowdfunding pellemumford_2018$ ls
+README.md		package-lock.json	src
+babel.config.js		package.json
+contracts		public
+(base) Pelles-MacBook-Pro:crowdfunding pellemumford_2018$ 
+(base) Pelles-MacBook-Pro:crowdfunding pellemumford_2018$ 
+(base) Pelles-MacBook-Pro:crowdfunding pellemumford_2018$ 
+  [Restored 14 Oct 2020 at 10:51:51 am]
+Last login: Wed Oct 14 10:51:45 on console
+Restored session: Tue 13 Oct 2020 21:54:33 ACDT
+(base) Pelles-MacBook-Pro:crowdfunding pellemumford_2018$ pwd
+/Users/pellemumford_2018/crowdfunding
+(base) Pelles-MacBook-Pro:crowdfunding pellemumford_2018$ 
+  [Restored 15 Oct 2020 at 10:51:18 am]
+Last login: Thu Oct 15 10:51:08 on console
+Restored session: Wed 14 Oct 2020 21:47:52 ACDT
+(base) Pelles-MacBook-Pro:crowdfunding pellemumford_2018$ 
+  [Restored 16 Oct 2020 at 11:07:55 am]
+Last login: Fri Oct 16 11:07:48 on console
+Restored session: Thu 15 Oct 2020 21:50:33 ACDT
+(base) Pelles-MacBook-Pro:crowdfunding pellemumford_2018$ 
+  [Restored 17 Oct 2020 at 10:01:52 am]
+Last login: Sat Oct 17 10:01:44 on console
+Restored session: Fri 16 Oct 2020 22:34:57 ACDT
+(base) 160062s-iPhone:crowdfunding pellemumford_2018$ 
+  [Restored 19 Oct 2020 at 10:08:05 am]
+Last login: Mon Oct 19 10:07:57 on console
+Restored session: Sun 18 Oct 2020 22:07:36 ACDT
+(base) Pelles-MacBook-Pro:crowdfunding pellemumford_2018$ 
+  [Restored 20 Oct 2020 at 3:17:51 pm]
+Last login: Tue Oct 20 15:17:44 on console
+Restored session: Mon 19 Oct 2020 22:34:35 ACDT
+(base) Pelles-MacBook-Pro:crowdfunding pellemumford_2018$ 
+  [Restored 21 Oct 2020 at 8:14:14 am]
+Last login: Wed Oct 21 08:14:04 on console
+(base) Pelles-MacBook-Pro:crowdfunding pellemumford_2018$ pwd
+/Users/pellemumford_2018/crowdfunding
+(base) Pelles-MacBook-Pro:crowdfunding pellemumford_2018$ cd ..
+(base) Pelles-MacBook-Pro:~ pellemumford_2018$ ls
+=2.6.0					Untitled.ipynb
+=2.6.05					Untitled1.ipynb
+Applications				Untitled2.ipynb
+Desktop					bybit_api_python
+DevConnector_Anant			cart_academind
+Documents				crowdfunding
+Downloads				devconnector_2.0_SS_25Nov
+Farmgate				eattheblocks
+Farmgate-master				eattheblocks_ss
+Farmgate-master_checkpoint1		mern_shopping_list
+Library					node_passport_login
+Movies					nodejs-shopping-cart-tutorial
+Music					nodetradebot
+OrFeed					package-lock.json
+Pictures				playground
+Postman					profitable-flashloans
+Public					profitable-flashloans_mainnet
+Python-Time-Series-master		profitable-flashloans_updated
+ReactJS-Fly-To-Cart-Effect-master	react_express_starter
+Smart_Contract				trialapp2
+TestRun.ipynb
+(base) Pelles-MacBook-Pro:~ pellemumford_2018$ cd playground
+(base) Pelles-MacBook-Pro:playground pellemumford_2018$ pwd
+/Users/pellemumford_2018/playground
+(base) Pelles-MacBook-Pro:playground pellemumford_2018$ git clone https://gitlab.com/jklepatch/eattheblocks-pro.git
+Cloning into 'eattheblocks-pro'...
+remote: Enumerating objects: 2349, done.
+remote: Counting objects: 100% (2349/2349), done.
+remote: Compressing objects: 100% (1122/1122), done.
+remote: Total 4070 (delta 1115), reused 2283 (delta 1052), pack-reused 1721
+Receiving objects: 100% (4070/4070), 20.33 MiB | 407.00 KiB/s, done.
+Resolving deltas: 100% (1765/1765), done.
+Updating files: 100% (3424/3424), done.
+(base) Pelles-MacBook-Pro:playground pellemumford_2018$ ls
+day1-simple-smart-contract	eattheblocks-pro
+(base) Pelles-MacBook-Pro:playground pellemumford_2018$ cd ..
+(base) Pelles-MacBook-Pro:~ pellemumford_2018$ ls
+=2.6.0					Untitled.ipynb
+=2.6.05					Untitled1.ipynb
+Applications				Untitled2.ipynb
+Desktop					bybit_api_python
+DevConnector_Anant			cart_academind
+Documents				crowdfunding
+Downloads				devconnector_2.0_SS_25Nov
+Farmgate				eattheblocks
+Farmgate-master				eattheblocks_ss
+Farmgate-master_checkpoint1		mern_shopping_list
+Library					node_passport_login
+Movies					nodejs-shopping-cart-tutorial
+Music					nodetradebot
+OrFeed					package-lock.json
+Pictures				playground
+Postman					profitable-flashloans
+Public					profitable-flashloans_mainnet
+Python-Time-Series-master		profitable-flashloans_updated
+ReactJS-Fly-To-Cart-Effect-master	react_express_starter
+Smart_Contract				trialapp2
+TestRun.ipynb
+(base) Pelles-MacBook-Pro:~ pellemumford_2018$ cd playground
+(base) Pelles-MacBook-Pro:playground pellemumford_2018$ ls
+day1-simple-smart-contract	start
+eattheblocks-pro
+(base) Pelles-MacBook-Pro:playground pellemumford_2018$ cd start
+(base) Pelles-MacBook-Pro:start pellemumford_2018$ ls -1
+contracts
+migrations
+truffle-config.js
+(base) Pelles-MacBook-Pro:start pellemumford_2018$ ls -1 migrations
+1558905191_simple_smart_contract.js
+1_initial_migration.js
+(base) Pelles-MacBook-Pro:start pellemumford_2018$ touch test/simpleSmartContract.js
+touch: test/simpleSmartContract.js: No such file or directory
+(base) Pelles-MacBook-Pro:start pellemumford_2018$ pwd
+/Users/pellemumford_2018/playground/start
+(base) Pelles-MacBook-Pro:start pellemumford_2018$ touch test
+(base) Pelles-MacBook-Pro:start pellemumford_2018$ ls
+contracts		test
+migrations		truffle-config.js
+(base) Pelles-MacBook-Pro:start pellemumford_2018$ touch test.js
+(base) Pelles-MacBook-Pro:start pellemumford_2018$ open test.js
+(base) Pelles-MacBook-Pro:start pellemumford_2018$ pwd
+/Users/pellemumford_2018/playground/start
+(base) Pelles-MacBook-Pro:start pellemumford_2018$ cd test
+(base) Pelles-MacBook-Pro:test pellemumford_2018$ ls
+simpleSmartContract.js
+(base) Pelles-MacBook-Pro:test pellemumford_2018$ truffle test
+
+Compiling your contracts...
+===========================
+> Compiling ./contracts/Migrations.sol
+> Compiling ./contracts/SimpleSmartContract.sol
+> Artifacts written to /var/folders/x5/1kkdykk960q045d0956z54bw0000gn/T/test-2020921-1503-1eq6mh7.94s8l
+> Compiled successfully using:
+   - solc: 0.5.16+commit.9c3226ce.Emscripten.clang
+
+
+
+  Contract: SimpleStorageContract
+0x345cA3e014Aaf5dcA488057592ee47305D9B3e10
+    ✓ Should deploy smart contract properly
+
+
+  1 passing (32ms)
+
+(base) Pelles-MacBook-Pro:test pellemumford_2018$ truffle test
+
+Compiling your contracts...
+===========================
+> Compiling ./contracts/Migrations.sol
+> Compiling ./contracts/SimpleSmartContract.sol
+> Artifacts written to /var/folders/x5/1kkdykk960q045d0956z54bw0000gn/T/test-2020921-1508-jarj5w.1una8
+> Compiled successfully using:
+   - solc: 0.5.16+commit.9c3226ce.Emscripten.clang
+
+Error: Could not find artifacts for SimpleSSmartContract from any sources
+    at Resolver.require (/usr/local/lib/node_modules/truffle/build/webpack:/packages/resolver/dist/lib/resolver.js:34:1)
+    at TestResolver.require (/usr/local/lib/node_modules/truffle/build/webpack:/packages/core/lib/testing/testresolver.js:24:1)
+    at Object.require (/usr/local/lib/node_modules/truffle/build/webpack:/packages/core/lib/test.js:286:1)
+    at Object.<anonymous> (/Users/pellemumford_2018/playground/start/test/simpleSmartContract.js:1:39)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at /usr/local/lib/node_modules/truffle/node_modules/mocha/lib/mocha.js:250:27
+    at Array.forEach (<anonymous>)
+    at Mocha.loadFiles (/usr/local/lib/node_modules/truffle/node_modules/mocha/lib/mocha.js:247:14)
+    at Mocha.run (/usr/local/lib/node_modules/truffle/node_modules/mocha/lib/mocha.js:576:10)
+    at /usr/local/lib/node_modules/truffle/build/webpack:/packages/core/lib/test.js:159:1
+    at new Promise (<anonymous>)
+    at Object.run (/usr/local/lib/node_modules/truffle/build/webpack:/packages/core/lib/test.js:158:1)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Truffle v5.1.33 (core: 5.1.33)
+Node v12.18.2
+(base) Pelles-MacBook-Pro:test pellemumford_2018$ truffle test
+
+Compiling your contracts...
+===========================
+> Compiling ./contracts/Migrations.sol
+> Compiling ./contracts/SimpleSmartContract.sol
+> Artifacts written to /var/folders/x5/1kkdykk960q045d0956z54bw0000gn/T/test-2020921-1512-3chb1k.po1kb
+> Compiled successfully using:
+   - solc: 0.5.16+commit.9c3226ce.Emscripten.clang
+
+
+
+  Contract: SimpleStorageContract
+0x345cA3e014Aaf5dcA488057592ee47305D9B3e10
+    ✓ Should deploy smart contract properly
+
+
+  1 passing (31ms)
+
+(base) Pelles-MacBook-Pro:test pellemumford_2018$ pwd
+/Users/pellemumford_2018/playground/start/test
+(base) Pelles-MacBook-Pro:test pellemumford_2018$ cd ..
+(base) Pelles-MacBook-Pro:start pellemumford_2018$ ls
+contracts		test
+migrations		truffle-config.js
+(base) Pelles-MacBook-Pro:start pellemumford_2018$ cd ..
+(base) Pelles-MacBook-Pro:playground pellemumford_2018$ ls
+day1-simple-smart-contract	start
+eattheblocks-pro
+(base) Pelles-MacBook-Pro:playground pellemumford_2018$ cd day1-simple-smart-contract
+(base) Pelles-MacBook-Pro:day1-simple-smart-contract pellemumford_2018$ ls
+frontend	smart-contract	tests
+(base) Pelles-MacBook-Pro:day1-simple-smart-contract pellemumford_2018$ cd frontend
+(base) Pelles-MacBook-Pro:frontend pellemumford_2018$ ls
+end	start
+(base) Pelles-MacBook-Pro:frontend pellemumford_2018$ cd start
+(base) Pelles-MacBook-Pro:start pellemumford_2018$ cd migrations
+(base) Pelles-MacBook-Pro:migrations pellemumford_2018$ ls
+1_initial_migration.js
+(base) Pelles-MacBook-Pro:migrations pellemumford_2018$ touch 2_initial_migration.js
+(base) Pelles-MacBook-Pro:migrations pellemumford_2018$ open 2_initial_migration.js
+(base) Pelles-MacBook-Pro:migrations pellemumford_2018$ 
+  [Restored 22 Oct 2020 at 11:13:33 am]
+Last login: Thu Oct 22 11:13:28 on console
+(base) Pelles-MacBook-Pro:migrations pellemumford_2018$ pwd
+/Users/pellemumford_2018/playground/day1-simple-smart-contract/frontend/start/migrations
+(base) Pelles-MacBook-Pro:migrations pellemumford_2018$ truffle develop
+Truffle Develop started at http://127.0.0.1:9545/
+
+Accounts:
+(0) 0x6c795b8a7bb602d1ac0d5d775c4c483a7d7211ce
+(1) 0x9983c3e850e37fca4d8ff2e216c4f382e33a2f16
+(2) 0x1b7b0897608639ce45e061d2b5ddbe76849b3c16
+(3) 0x34a24bc4f033094e64d516e7dafdbe1bfad5fcef
+(4) 0x6fe74ac8d05ebc58a8df386d636798e9316dbd6c
+(5) 0x4e96e936a6ba6a9787f7e4361d5f0630d32d436e
+(6) 0xc98b357af38ef32fb0257157065f4f7f0b15c62f
+(7) 0xe2a84c4a5c468eebe4ff653862a7a74e56fa75f2
+(8) 0xbed304f4f74821796f1f383683ef03b9c181eccc
+(9) 0xc55bf56e06a55c6fe37c886390236dd0fa6ffe40
+
+Private Keys:
+(0) 6c8e135914e11eabbb080101f7099dfbbdc8298d013c10f979ac6532a26d0ee8
+(1) 5a8c8442b56c8e64614f041dcad455591be641bd6c485e0c950b70aa6ef67c89
+(2) 412f5b667b8b95e8eeecc7e6964aa7a5aa5111dd0b1f01a47e8f48312eb2edfa
+(3) f6d738322e891f836818b9303a4978cce05284f2853cca622a52e2b541c6e9fb
+(4) a7bf8bb38e9e5c755db6072967d37cfa2aa17dfcb5463fa29bcef6a6bdfe6137
+(5) 3a1b87b492df0c43d2a674ac6f660223b82ba3a4df44eb9e544ed1ec1f5b7e20
+(6) e548021c20287a7434dba8e9d24338545f7c77b269f539203784760509542f59
+(7) 60808b4d8a6772151d78f4a8a6189dfe2d64a41dc22aeae53985ef91694d09c7
+(8) 3d5d56c704df7485f1cd7f862e2330305555f384d227126a86c90123ce60553d
+(9) 74b5b0c878eaeac5306aea967005aedf5b1cc896ca717e56e65e103f45588881
+
+Mnemonic: damage tide clarify kick during claim moment dream rude sick tone potato
+
+⚠️  Important ⚠️  : This mnemonic was created for you by Truffle. It is not secure.
+Ensure you do not use it on production blockchains, or else you risk losing funds.
+
+truffle(develop)> migrate -- reset
+> Warning: possible unsupported (undocumented in help) command line option: --
+
+Compiling your contracts...
+===========================
+> Compiling ./contracts/Migrations.sol
+> Compiling ./contracts/SimpleSmartContract.sol
+> Artifacts written to /Users/pellemumford_2018/playground/day1-simple-smart-contract/frontend/start/build/contracts
+> Compiled successfully using:
+   - solc: 0.5.16+commit.9c3226ce.Emscripten.clang
+
+
+
+Starting migrations...
+======================
+> Network name:    'develop'
+> Network id:      5777
+> Block gas limit: 6721975 (0x6691b7)
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0x5ce06406289f23d83d8c54afccfdad223d7ae00100df0326b44f0ab56dc7fa76
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x0F94D020eAA3A3e6Ca5Be55Bab76265a3940f492
+   > block number:        1
+   > block timestamp:     1603329711
+   > account:             0x6c795b8a7BB602D1ac0d5D775c4C483a7D7211CE
+   > balance:             99.99549526
+   > gas used:            225237 (0x36fd5)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00450474 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00450474 ETH
+
+
+2_initial_migration.js
+======================
+
+   Deploying 'SimpleSmartContract'
+   -------------------------------
+   > transaction hash:    0x56c5e31fc37b406fc4cf1d03091733934605af0fce56b1dbc9034cc1bbbc88d8
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x74A494a29A6bd04436497a6584411Da041382591
+   > block number:        3
+   > block timestamp:     1603329712
+   > account:             0x6c795b8a7BB602D1ac0d5D775c4C483a7D7211CE
+   > balance:             99.99331124
+   > gas used:            66838 (0x10516)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00133676 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00133676 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.0058415 ETH
+
+
+truffle(develop)> 
